@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\bin\Debug\net6.0\ArrayResizeTask.exe
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\bin\Debug\net6.0\ArrayResizeTask.deps.json
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\bin\Debug\net6.0\ArrayResizeTask.runtimeconfig.json
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\bin\Debug\net6.0\ArrayResizeTask.dll
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\bin\Debug\net6.0\ArrayResizeTask.pdb
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\obj\Debug\net6.0\ArrayResizeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\obj\Debug\net6.0\ArrayResizeTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\obj\Debug\net6.0\ArrayResizeTask.AssemblyInfo.cs
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\obj\Debug\net6.0\ArrayResizeTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\obj\Debug\net6.0\ArrayResizeTask.dll
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\obj\Debug\net6.0\refint\ArrayResizeTask.dll
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\obj\Debug\net6.0\ArrayResizeTask.pdb
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\obj\Debug\net6.0\ArrayResizeTask.genruntimeconfig.cache
+C:\Users\User\Desktop\tasks\ArrayResizeTask\ArrayResizeTask\obj\Debug\net6.0\ref\ArrayResizeTask.dll
