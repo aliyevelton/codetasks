@@ -1,0 +1,14 @@
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\bin\Debug\net6.0\TaskEnums.exe
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\bin\Debug\net6.0\TaskEnums.deps.json
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\bin\Debug\net6.0\TaskEnums.runtimeconfig.json
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\bin\Debug\net6.0\TaskEnums.dll
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\bin\Debug\net6.0\TaskEnums.pdb
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\obj\Debug\net6.0\TaskEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\obj\Debug\net6.0\TaskEnums.AssemblyInfoInputs.cache
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\obj\Debug\net6.0\TaskEnums.AssemblyInfo.cs
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\obj\Debug\net6.0\TaskEnums.csproj.CoreCompileInputs.cache
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\obj\Debug\net6.0\TaskEnums.dll
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\obj\Debug\net6.0\refint\TaskEnums.dll
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\obj\Debug\net6.0\TaskEnums.pdb
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\obj\Debug\net6.0\TaskEnums.genruntimeconfig.cache
+C:\Users\eltonia\Desktop\TaskEnums\TaskEnums\obj\Debug\net6.0\ref\TaskEnums.dll
