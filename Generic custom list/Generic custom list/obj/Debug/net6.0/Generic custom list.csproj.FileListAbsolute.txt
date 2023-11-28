@@ -1,0 +1,14 @@
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\bin\Debug\net6.0\Generic custom list.exe
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\bin\Debug\net6.0\Generic custom list.deps.json
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\bin\Debug\net6.0\Generic custom list.runtimeconfig.json
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\bin\Debug\net6.0\Generic custom list.dll
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\bin\Debug\net6.0\Generic custom list.pdb
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\obj\Debug\net6.0\Generic custom list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\obj\Debug\net6.0\Generic custom list.AssemblyInfoInputs.cache
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\obj\Debug\net6.0\Generic custom list.AssemblyInfo.cs
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\obj\Debug\net6.0\Generic custom list.csproj.CoreCompileInputs.cache
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\obj\Debug\net6.0\Generic custom list.dll
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\obj\Debug\net6.0\refint\Generic custom list.dll
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\obj\Debug\net6.0\Generic custom list.pdb
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\obj\Debug\net6.0\Generic custom list.genruntimeconfig.cache
+C:\Users\eltonia\Desktop\Generic custom list\Generic custom list\obj\Debug\net6.0\ref\Generic custom list.dll
