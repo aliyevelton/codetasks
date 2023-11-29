@@ -79,15 +79,23 @@ namespace Generic_custom_list
 
         public bool Remove(T value)
         {
-            for (int i = 0;i < capacity; i++)
+            int index = 0;
+            bool found = false;
+            for(int i = 0; i < count; i++)
             {
-                if (value.Equals(list[i]))
-                {
-                    CustomList<T> removedList = new CustomList<T>();
-                    Array.Copy(,)
-                    return true;
+                if (list[i].Equals(value)) 
+                { 
+                    index = i;
+                    found = true;
                 }
             }
+            for (int i = index; i < count - 1; i++)
+            {
+                list[i] = list[i + 1];
+            }
+            list[count - 1] = default(T);
+            count--;
+            return found;
         }
     }
 }
